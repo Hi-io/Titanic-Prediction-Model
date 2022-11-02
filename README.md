@@ -2,6 +2,9 @@
 This is a model created to join into machine learning competition from Kaggle. 
 We'll use machine learning (Multiple Linear Regression) to create a model that predicts which passengers survived the Titanic shipwreck.
 
+![titanic_custom-fc6a03aedd8e562d780ecf9b9a8a947d4dcbf163-s1100-c50](https://user-images.githubusercontent.com/110522512/199408968-1a5de8c3-8d64-4eef-83b8-dabf35a3af67.jpg)
+
+
 To make the predictive model we will use the following data:
 * Ticket Class: 1st, 2nd, 3rd
 * Sex: Male or Female
