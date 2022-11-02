@@ -23,3 +23,8 @@ In reality, there are multiple variables that impact the survivor rate. When mor
 
  **Coefficient** and **Intercept**  are the parameters of the fitted line.
 Given that it is a multiple linear regression model with 5 parameters and that the parameters are the intercept and coefficients of the hyperplane, sklearn can estimate them from our data.
+
+![Screenshot_1](https://user-images.githubusercontent.com/110522512/199409463-1ad4581b-2457-4f09-bfe5-d4b6fb232945.png)
+
+
+With this procedure we achieved a score of .76 in Kaggle, to get a higher score you could use a combination of the many other machine learning models out there, but for now we will leave you with the score achieved using only Multiple Linear Regression.
